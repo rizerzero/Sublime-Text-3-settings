@@ -14,7 +14,7 @@
 		"/C/Users/jules/Documents/backup/C/wamp64/www/kna"
 	],
 	"last_version": 3114,
-	"last_window_id": 40,
+	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
 	{
@@ -25,6 +25,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"Gin",
+						"GinF"
+					],
+					[
+						"des",
+						"destFileName"
+					],
+					[
+						"Messa",
+						"MessageBox"
+					],
 					[
 						"sec",
 						"secondTest"
@@ -217,10 +229,30 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 139.0,
-				"last_filter": "format php",
+				"height": 231.0,
+				"last_filter": "pack rem",
 				"selected_items":
 				[
+					[
+						"pack rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"syn php",
+						"Set Syntax: PHP"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"s",
+						"Set Syntax: PHP"
+					],
 					[
 						"format php",
 						"CodeFormatter: Format as PHP Syntax"
@@ -286,24 +318,12 @@
 						"ANF: Rename File"
 					],
 					[
-						"pack ins",
-						"Package Control: Install Package"
-					],
-					[
 						"pack lis",
 						"Package Control: List Packages"
 					],
 					[
 						"pack re",
 						"Package Control: Remove Channel"
-					],
-					[
-						"packa ins",
-						"Package Control: Install Package"
-					],
-					[
-						"syn php",
-						"Set Syntax: PHP"
 					],
 					[
 						"artisan make:controller ",
@@ -538,7 +558,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 1168.0
+				"width": 735.0
 			},
 			"console":
 			{
@@ -567,6 +587,23 @@
 			},
 			"file_history":
 			[
+				"/C/Users/jules/.profile",
+				"/C/wamp64/www/Packagetest/composer.json",
+				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php",
+				"/C/GinF/_install.bat",
+				"/C/GinF/_uninstall.bat",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jules/Desktop/links.txt",
+				"/C/Users/jules/Downloads/Nouveau dossier/[PRR Fansub] LTM 01 vostfr.ass",
+				"/C/wamp64/www/goldobak/app/Http/routes.php",
+				"/C/wamp64/www/demo/pipedrive/index.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/initialize_properties.sublime-macro",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/initialize_properties.sublime-macro.sublime-keymap",
+				"/C/wamp64/www/demo/mailgun/composer.json",
+				"/C/wamp64/www/demo/pipedrive/composer.json",
+				"/C/wamp64/www/demo/peepdrive/index.php",
 				"/C/wamp64/www/goldobak/composer.json",
 				"/C/wamp64/www/goldobak/.env",
 				"/C/wamp64/www/goldobak/app/Http/Controllers/Auth/AuthController.php",
@@ -587,7 +624,6 @@
 				"/C/wamp64/www/goldobak/resources/views/goldobak/items/create.blade.php",
 				"/C/wamp64/www/goldobak/resources/views/goldobak/items/show.blade.php",
 				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/show.blade.php",
-				"/C/wamp64/www/goldobak/app/Http/routes.php",
 				"/C/wamp64/www/goldobak/app/Http/Controllers/HomeController.php",
 				"/C/wamp64/www/goldobak/resources/views/goldobak/layout/app.blade.php",
 				"/C/wamp64/www/goldobak/resources/views/layouts/goldolayout.blade.php",
@@ -639,7 +675,6 @@
 				"/C/wamp64/www/demo/test2.php",
 				"/C/wamp64/www/demo/pic.php",
 				"/C/wamp64/www/spark/laravel-spark/app/Spark.php",
-				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/Invoker.php",
 				"/C/wamp64/www/valet/valet/valet.php",
@@ -662,7 +697,6 @@
 				"/C/wamp64/www/lsm/composer.json",
 				"/C/Users/jules/AppData/Local/Temp/fz3temp-1/download.php",
 				"/C/Users/jules/AppData/Local/Temp/Temp1_jcart-1.3.zip/jcart-1.3/jcart/jcart.php",
-				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
 				"/C/wamp64/www/web/faq.html",
 				"/C/wamp64/www/web/contact.html",
 				"/C/wamp64/www/web/career.html",
@@ -680,21 +714,7 @@
 				"/C/wamp64/www/web/privacy_policy.html",
 				"/C/wamp64/www/web/quality.html",
 				"/C/wamp64/www/web/register.html",
-				"/C/wamp64/www/web/shortcodes.html",
-				"/C/wamp64/www/web/single-instrument.html",
-				"/C/wamp64/www/web/single.html",
-				"/C/wamp64/www/web/sitemap.html",
-				"/C/wamp64/www/web/technologies.html",
-				"/C/wamp64/www/web/terms.html",
-				"/C/wamp64/www/web/test-desc.html",
-				"/C/wamp64/www/web/test-list.html",
-				"/C/wamp64/www/web/w3layouts-License.txt",
-				"/C/wamp64/www/web/css/style.css",
-				"/C/wamp64/www/project/update.php",
-				"/C/wamp64/www/pt/_PrayTime.php",
-				"/C/wamp64/www/pt/js-v1",
-				"/C/wamp64/www/demo/api/pipedrive/index.php",
-				"/C/wamp64/www/project/edition.php"
+				"/C/wamp64/www/web/shortcodes.html"
 			],
 			"find":
 			{
@@ -714,6 +734,42 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"injectionMaster",
+					"srm install GinFLib.dll -codebase",
+					"m/",
+					";",
+					"/watch?",
+					"https://i.ytimg",
+					"1fichier",
+					"throw new ArgumentNullException((sourceFileName == null) ?",
+					"SetDestinationPath",
+					"CurrentDirectoryPath",
+					"DestinationPath",
+					"SetFormInput",
+					"SetDestinationFolderPath",
+					"SetDestinationFolder",
+					"();\n",
+					"CurrentDirectoryPath",
+					"GinProcess",
+					"GindFormInput",
+					"GinProcess",
+					"GindFormInput",
+					"IputFolderName",
+					"CreateFolder",
+					"GinFormIput",
+					"GinProcess",
+					"directoryFullPath",
+					"CountLines",
+					"itemCountLines",
+					"UserNameFolder",
+					"expand_fqcn",
+					"Merci à",
+					"-> Merci à Warlockpour avoir encodé et uplaodé cet épisode !",
+					"HD : ",
+					"Episode",
+					"MD :",
+					"HD :",
+					"HD",
 					"Auth\\",
 					"layouts.app",
 					"view('",
@@ -805,43 +861,7 @@
 					"br",
 					"h3",
 					"no-more-tables",
-					"cf",
-					"success",
-					"bg-success",
-					"#contact",
-					"contact",
-					"clients_table",
-					"table",
-					"client_table",
-					"no-more-tables",
-					"<tr>\n        				<td data-title=\"Code\">AAC</td>\n        				<td data-title=\"Company\">AUSTRALIAN AGRICULTURAL COMPANY LIMITED.</td>\n        				<td data-title=\"Price\" class=\"numeric\">$1.38</td>\n        				<td data-title=\"Change\" class=\"numeric\">-0.01</td>\n        				<td data-title=\"Change %\" class=\"numeric\">-0.36%</td>\n        				<td data-title=\"Open\" class=\"numeric\">$1.39</td>\n        				<td data-title=\"High\" class=\"numeric\">$1.39</td>\n        				<td data-title=\"Low\" class=\"numeric\">$1.38</td>\n        				<td data-title=\"Volume\" class=\"numeric\">9,395</td>\n        			</tr>",
-					"no-more-tables",
-					"php",
-					"message",
-					"_GET",
-					"type",
-					";\n",
-					"message",
-					"error",
-					"GET",
-					"Flash",
-					"Flash$",
-					"Flash",
-					"Flash::",
-					"Flash",
-					"Flas",
-					"='';\n",
-					"Flash",
-					"Flah",
-					"Flasg",
-					"Flash",
-					"PSql",
-					"Psql",
-					"Query",
-					"Client",
-					"use Illuminate\\Database\\Capsule\\Manager as Capsule;",
-					"$DB",
-					"DB"
+					"cf"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -862,7 +882,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 46.0
 			},
 			"input":
 			{
@@ -1426,13 +1446,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 140.0,
+			"side_bar_width": 242.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 800.0
+		"new_window_width": 1112.0
 	},
 	"windows":
 	[
@@ -1653,10 +1673,7 @@
 					}
 				},
 				{
-					"contents": "<?php \n 	\n$domain = 'sandbox1edcc40341ba416b90983c2b6e05da1a.mailgun.org';\n$apiKey = 'key-8395777fa6100fb7f6c76c0e7126ffbb';\n#https://api.mailgun.net/v3/elancer.me.pn\n# First, instantiate the SDK with your API credentials and define your domain. \n$mg = new Mailgun($apiKey, null, 'http://bin.mailgun.net/72bdb038');\n$mg->setApiVersion('aecf68de');\n$mg->setSslEnabled(false);\n\n# Now, compose and send your message.\n$mg->sendMessage($domain, array('from'    => 'postmaster@sandbox1edcc40341ba416b90983c2b6e05da1a.mailgun.org', \n                                'to'      => 'isannony@gmail.com', \n                                'subject' => 'The PHP SDK is awesome!', \n                                'text'    => 'It is so simple to send a message.'));\n\n\nadmin : all permission \n		edit create , delete , add a reader and add an Editor : \n\nreader validator :  read only and validate our post \nEditor , create and edit the posts , \n\nRessources , blog posts .\njust testing  	\n\n ?>",
 					"file": "/C/wamp64/www/demo/mailgun/index.php",
-					"file_size": 959,
-					"file_write_time": 131157407042711824,
 					"settings":
 					{
 						"buffer_size": 976,
@@ -2138,10 +2155,15 @@
 			],
 			"file_history":
 			[
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/jules/.git-prompt-colors.sh",
+				"/C/Users/jules/.bashrc",
+				"/C/Users/jules/.bash-git-prompt/themes/Custom.bgptemplate",
+				"/C/Users/jules/.profile",
 				"/C/wamp64/www/Packagetest/composer.json",
 				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php",
-				"/C/GinF/_install.bat",
 				"/C/GinF/_uninstall.bat",
+				"/C/GinF/_install.bat",
 				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/jules/Desktop/links.txt",
 				"/C/Users/jules/Downloads/Nouveau dossier/[PRR Fansub] LTM 01 vostfr.ass",
@@ -2219,7 +2241,6 @@
 				"/C/Users/jules/.valet/Sites/www/valet/valet/src/Configuration.php",
 				"/C/wamp64/www/index.php",
 				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
-				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/wamp64/www/demo/test.php",
 				"/C/wamp64/www/fes/composer.json",
 				"/C/wamp64/www/demo/test2.php",
@@ -2261,11 +2282,7 @@
 				"/C/wamp64/www/web/login.html",
 				"/C/wamp64/www/web/mobile-app.html",
 				"/C/wamp64/www/web/news.html",
-				"/C/wamp64/www/web/privacy_policy.html",
-				"/C/wamp64/www/web/quality.html",
-				"/C/wamp64/www/web/register.html",
-				"/C/wamp64/www/web/shortcodes.html",
-				"/C/wamp64/www/web/single-instrument.html"
+				"/C/wamp64/www/web/privacy_policy.html"
 			],
 			"find":
 			{
@@ -2434,7 +2451,7 @@
 			"groups":
 			[
 				{
-					"selected": 8,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -2450,8 +2467,8 @@
 								"selection":
 								[
 									[
-										61,
-										61
+										39,
+										39
 									]
 								],
 								"settings":
@@ -2475,61 +2492,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
 									"syntax": "Packages/php-grammar/PHP.sublime-syntax",
 									"tab_size": 4,
@@ -2539,7 +2556,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -3010,7 +3027,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -3127,7 +3144,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -3229,7 +3246,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -3244,8 +3261,8 @@
 								"selection":
 								[
 									[
-										366,
-										366
+										540,
+										540
 									]
 								],
 								"settings":
@@ -3268,61 +3285,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -3330,7 +3347,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -3908,7 +3925,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-51,-1,-1,663,316,0,1134",
+			"position": "0,2,3,-32000,-32050,-1,-1,663,316,0,1446",
 			"project": "goldobak0.sublime-project",
 			"replace":
 			{
