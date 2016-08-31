@@ -1,0 +1,28 @@
+{
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
+	"default_new_file_syntax": "PHP",
+	"draw_centered": true,
+	"draw_indent_guides": false,
+	"extensions":
+	[
+		"php"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"PHP",
+		"Vintage"
+	],
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_14": true,
+	"status_bar_brighter": true,
+	"tabs_label_not_italic": true,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Afterglow-green.sublime-theme",
+	"trim_trailing_white_space_on_save": false,
+	"use_current_file_syntax": false,
+	"word_wrap": true,
+	"wrap_width": 131
+}

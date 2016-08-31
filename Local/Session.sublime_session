@@ -1,0 +1,4488 @@
+{
+	"folder_history":
+	[
+		"/C/wamp64/www/swiftpay",
+		"/C/wamp64/www/goldobak",
+		"/C/wamp64/www/web",
+		"/C/wamp64/www/demo",
+		"/C/wamp64/www/pt",
+		"/C/Users/jules/Desktop/Nouveau dossier (6)/lacan",
+		"/C/wamp64/www/project",
+		"/C/wamp64/www/2105/tp2",
+		"/C/wamp64/www/lum",
+		"/C/wamp64/www/kna",
+		"/C/Users/jules/Documents/backup/C/wamp64/www/kna"
+	],
+	"last_version": 3114,
+	"last_window_id": 40,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 591.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sec",
+						"secondTest"
+					],
+					[
+						"reamt",
+						"real-time	(index.php)"
+					],
+					[
+						"hello",
+						"hello"
+					],
+					[
+						"form",
+						"form-group"
+					],
+					[
+						"curf",
+						"$curFrom〔variable〕"
+					],
+					[
+						"Lo",
+						"LOW"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"_header",
+						"_header_main.php"
+					],
+					[
+						"Pro",
+						"ProfileClient"
+					],
+					[
+						"Core",
+						"Core\\Libs\\Clients〔class〕"
+					],
+					[
+						"last",
+						"lastClient"
+					],
+					[
+						"client",
+						"client_auth	(auth_client.php)"
+					],
+					[
+						"mana",
+						"manage	(del.php)"
+					],
+					[
+						"id",
+						"id_client"
+					],
+					[
+						"auth",
+						"auth.php"
+					],
+					[
+						"i",
+						"iut	(Protect.php)"
+					],
+					[
+						"L",
+						"Libs	(trait.php)"
+					],
+					[
+						"Conn",
+						"Conn"
+					],
+					[
+						"Conne",
+						"Connexion	(log.php)"
+					],
+					[
+						"Cl",
+						"Clients"
+					],
+					[
+						"val",
+						"value	Attr"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"ident",
+						"identifiants	(Clients.php)"
+					],
+					[
+						"new",
+						"newClient"
+					],
+					[
+						"Client",
+						"ClientsEntity"
+					],
+					[
+						"cl",
+						"ClientsEntity〔namespace〕"
+					],
+					[
+						"core",
+						"core\\libs\\ClientsEntity〔class〕"
+					],
+					[
+						"not",
+						"notif"
+					],
+					[
+						"del",
+						"deleteId〔function〕"
+					],
+					[
+						"addcl",
+						"addclient.php"
+					],
+					[
+						"C",
+						"ClientIdentifications"
+					],
+					[
+						"Clien",
+						"$ClientIdentifications〔variable〕"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"pren",
+						"prenom"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"D",
+						"DBAL	(init.php)"
+					],
+					[
+						"indx",
+						"index.php"
+					],
+					[
+						"div",
+						"division"
+					],
+					[
+						"op",
+						"opration"
+					],
+					[
+						"curlsetop",
+						"curl_setopt_array"
+					],
+					[
+						"dot",
+						"dots.sublime-macro"
+					],
+					[
+						"class",
+						"class_alias"
+					],
+					[
+						"w",
+						"world	(Hello.php)"
+					],
+					[
+						"I",
+						"IHack	(Hack.php)"
+					],
+					[
+						"kna",
+						"KnaContract"
+					],
+					[
+						"Kna",
+						"KnaServiceProvider	(app.php)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 139.0,
+				"last_filter": "format php",
+				"selected_items":
+				[
+					[
+						"format php",
+						"CodeFormatter: Format as PHP Syntax"
+					],
+					[
+						"anf",
+						"ANF: Delete Current File"
+					],
+					[
+						"n",
+						"ANF: New File"
+					],
+					[
+						"anf n",
+						"ANF: New File"
+					],
+					[
+						"nf n",
+						"ANF: New File"
+					],
+					[
+						"nf dec",
+						"ANF: Delete Current File"
+					],
+					[
+						"nf",
+						"ANF: New File"
+					],
+					[
+						"anf e",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"anf re",
+						"ANF: Rename File"
+					],
+					[
+						"anf ",
+						"ANF: New File"
+					],
+					[
+						"and c",
+						"ANF: Delete Current File"
+					],
+					[
+						"artisan make cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"anf ne",
+						"ANF: New File"
+					],
+					[
+						"anf de",
+						"ANF: Delete Current File"
+					],
+					[
+						"artisan miga",
+						"Laravel Artisan 5: Migrate"
+					],
+					[
+						"anf rena ",
+						"ANF: Rename File"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pack re",
+						"Package Control: Remove Channel"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"syn php",
+						"Set Syntax: PHP"
+					],
+					[
+						"artisan make:controller ",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"pack i s",
+						"Package Control: Install Package"
+					],
+					[
+						"ynphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"yn php",
+						"Set Syntax: PHP"
+					],
+					[
+						"yn css",
+						"Set Syntax: CSS"
+					],
+					[
+						"syn ",
+						"Set Syntax: PHP"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"syn hr",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"syn javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sync ja",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"synjava s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn java",
+						"Set Syntax: Java"
+					],
+					[
+						"sync#",
+						"Set Syntax: C#"
+					],
+					[
+						"synhtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"syn sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"sys php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pack cins",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packins",
+						"Package Control: Install Package"
+					],
+					[
+						"dest c",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"clone ri",
+						"Origami: Clone File to Pane on the Right"
+					],
+					[
+						"or cr r",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"or des a",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"or c r",
+						"Origami: Create Pane Above"
+					],
+					[
+						"desr",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"clone r",
+						"Origami: Clone File to Pane on the Right"
+					],
+					[
+						"create r",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"clone file ",
+						"Origami: Clone File to Pane Below"
+					],
+					[
+						"clone righ",
+						"Origami: Clone File to Pane on the Right"
+					],
+					[
+						"dest",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"or foc r",
+						"Origami: Focus on Pane on the Right"
+					],
+					[
+						"DES",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"ORIG CREAT WIT",
+						"Origami: Create Pane with File Above"
+					],
+					[
+						"or foc L",
+						"Origami: Focus on Pane on the Left"
+					],
+					[
+						"destr abo",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"ori abo",
+						"Origami: Create Pane Above"
+					],
+					[
+						"or pane r",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"hello",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"anf file",
+						"ANF: New File"
+					],
+					[
+						"new fol",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"new file ",
+						"ANF: New File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"new folder ",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"autofile ",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"auto sett",
+						"AutoFileName: Quick Settings"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"ssx html",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"htlml",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"des",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"origami",
+						"Origami: Create Pane Above"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"ssx php",
+						"Set Syntax: PHP"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"pack insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pck ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 1168.0
+			},
+			"console":
+			{
+				"height": 344.0,
+				"history":
+				[
+					"view.run_command('example')",
+					"view.run_command('ExampleCommand')",
+					"ExampleCommand",
+					"view.run_command('ExampleCommand')",
+					"view.run_command('example')",
+					"view.run_command(\"example\")",
+					"view.run_command(\"Example\")",
+					"view.run_command(\"ClassNameFileName\")",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/wamp64/www/goldobak/composer.json",
+				"/C/wamp64/www/goldobak/.env",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/Auth/AuthController.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/RoleController.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/ItemController.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/errors/403.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/create.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/welcome.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/home.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/create.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/show.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/create.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/show.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/show.blade.php",
+				"/C/wamp64/www/goldobak/app/Http/routes.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/HomeController.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/layout/app.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/layouts/goldolayout.blade.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/UserController.php",
+				"/C/wamp64/www/goldobak/config/app.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/ItemControlller.php",
+				"/C/wamp64/www/goldobak/app/Http/Middleware/Authenticate.php",
+				"/C/wamp64/www/goldobak/vendor/psy/psysh/src/Psy/ConfigPaths.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/create.blade.php, edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/edit.blade.php show.blade.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/wamp64/www/goldobak/resources/views/Goldobak/users/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/Goldobak/errors/403.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/Goldobak/admin/app.blade.php",
+				"/C/wamp64/www/goldobak/config/auth.php",
+				"/C/wamp64/www/goldobak/database/seeds/UsersTableSeeder.php",
+				"/C/wamp64/www/goldobak/database/seeds/ItemsTableSeeder.php",
+				"/C/wamp64/www/goldobak/database/seeds/DatabaseSeeder.php",
+				"/C/wamp64/www/goldobak/config/entrust.php",
+				"/C/wamp64/www/goldobak/app/Goldobak/EntrustRepository/Permission.php",
+				"/C/wamp64/www/goldobak/app/Goldobak/EntrustRepository/Role.php",
+				"/C/wamp64/www/goldobak/database/migrations/2016_08_05_212430_create_items_table.php",
+				"/C/wamp64/www/goldobak/app/Models/User.php",
+				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php",
+				"/C/wamp64/www/goldobak/database/migrations/2016_08_06_181523_createEntrustTables.php",
+				"/C/wamp64/www/goldobak/database/seeds/PermissionTableSeeder.php",
+				"/C/wamp64/www/goldobak/database/migrations/2016_08_05_212609_create_entrust_table.php",
+				"/C/wamp64/www/goldobak/app/Models/Item.php",
+				"/C/wamp64/www/goldobak/app/Item.php",
+				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+				"/C/wamp64/www/goldobak/public/web.config",
+				"/C/wamp64/www/goldobak/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/wamp64/www/goldobak/app/Http/Kernel.php",
+				"/C/wamp64/www/goldobak/config/database.php",
+				"/C/wamp64/www/goldobak/bootstrap/app.php",
+				"/C/wamp64/www/goldobak/config/Goldobak.php",
+				"/C/wamp64/www/goldobak/config/GoldoBak.php",
+				"/C/wamp64/www/goldobak/app/Models/Role.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/plugin.py",
+				"/C/wamp64/www/goldobak/app/Models/Permission.php",
+				"/C/wamp64/www/goldobak/vendor/zizaco/entrust/src/Entrust/EntrustServiceProvider.php",
+				"/C/wamp64/www/goldobak/config/iori.php",
+				"/C/Users/jules/.valet/Sites/www/valet/valet/src/Configuration.php",
+				"/C/wamp64/www/index.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/wamp64/www/demo/test.php",
+				"/C/wamp64/www/fes/composer.json",
+				"/C/wamp64/www/demo/test2.php",
+				"/C/wamp64/www/demo/pic.php",
+				"/C/wamp64/www/spark/laravel-spark/app/Spark.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/Invoker.php",
+				"/C/wamp64/www/valet/valet/valet.php",
+				"/C/Users/jules/.valet/config.json",
+				"/C/wamp64/www/valet/valet/bin/acrylic/AcrylicHosts.txt",
+				"/C/Users/jules/.valet/Sites/www/goldobak/composer.json",
+				"/C/Users/jules/.valet/Sites/www/goldobak/index.php",
+				"/C/Users/jules/.valet/Sites/www/lms/composer.json",
+				"/C/wamp64/www/valet/valet/server.php",
+				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/ParameterResolver/ResolverChain.php",
+				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/ParameterResolver/ParameterResolver.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/php-grammar/README.md",
+				"/C/wamp64/www/project/ajouter_client.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+				"/C/wamp64/www/valet/valet/src/Acrylic.php",
+				"/C/Users/jules/.valet/Drivers/SampleValetDriver.php",
+				"/C/wamp64/www/valet/valet/src/Configuration.php",
+				"/C/wamp64/www/valet/composer.json",
+				"/C/wamp64/www/lms/LMS-Laravel-master/composer.json",
+				"/C/wamp64/www/lsm/composer.json",
+				"/C/Users/jules/AppData/Local/Temp/fz3temp-1/download.php",
+				"/C/Users/jules/AppData/Local/Temp/Temp1_jcart-1.3.zip/jcart-1.3/jcart/jcart.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/wamp64/www/web/faq.html",
+				"/C/wamp64/www/web/contact.html",
+				"/C/wamp64/www/web/career.html",
+				"/C/wamp64/www/web/book-a-test.html",
+				"/C/wamp64/www/web/blog.html",
+				"/C/wamp64/www/web/about.html",
+				"/C/wamp64/www/web/404.html",
+				"/C/wamp64/www/web/index.html",
+				"/C/wamp64/www/web/instruments.html",
+				"/C/wamp64/www/web/jobs_single.html",
+				"/C/wamp64/www/web/laboratory.html",
+				"/C/wamp64/www/web/login.html",
+				"/C/wamp64/www/web/mobile-app.html",
+				"/C/wamp64/www/web/news.html",
+				"/C/wamp64/www/web/privacy_policy.html",
+				"/C/wamp64/www/web/quality.html",
+				"/C/wamp64/www/web/register.html",
+				"/C/wamp64/www/web/shortcodes.html",
+				"/C/wamp64/www/web/single-instrument.html",
+				"/C/wamp64/www/web/single.html",
+				"/C/wamp64/www/web/sitemap.html",
+				"/C/wamp64/www/web/technologies.html",
+				"/C/wamp64/www/web/terms.html",
+				"/C/wamp64/www/web/test-desc.html",
+				"/C/wamp64/www/web/test-list.html",
+				"/C/wamp64/www/web/w3layouts-License.txt",
+				"/C/wamp64/www/web/css/style.css",
+				"/C/wamp64/www/project/update.php",
+				"/C/wamp64/www/pt/_PrayTime.php",
+				"/C/wamp64/www/pt/js-v1",
+				"/C/wamp64/www/demo/api/pipedrive/index.php",
+				"/C/wamp64/www/project/edition.php"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+					"C:\\wamp64\\www\\goldobak\\resources\\views\\goldobak",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Auth\\",
+					"layouts.app",
+					"view('",
+					"CRUD2",
+					"itemCRUD2",
+					" ",
+					"CRUD2",
+					"Crud",
+					"itemCRUD2",
+					"ItemCRUD2",
+					"itemCRUD2",
+					"ItemCRUD2",
+					"Security",
+					"jules",
+					"ItemsTableSeeder",
+					"cache ",
+					"use Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers;\n",
+					"use App\\Models\\User;",
+					"use App\\Http\\Controllers\\Controller;",
+					"model",
+					"models",
+					"users",
+					"models",
+					"}\n",
+					"[description]",
+					"\\",
+					"ResolverChain",
+					"session_s",
+					"session",
+					"+\"],",
+					"ddd",
+					"   \n",
+					"W3layouts",
+					"<a href=\"https://w3layouts.com/\" target=\"_blank\">W3layouts</a></p>",
+					"\"",
+					"span",
+					"4",
+					"h2",
+					"success",
+					"Amount",
+					"amount",
+					"select",
+					"div",
+					"../../",
+					"../../dist/",
+					"selected",
+					"to",
+					"SELECTED",
+					"$_POST['to']",
+					"$_POST['from']",
+					"to",
+					"From",
+					"GetDefaultAudioEndpoint",
+					"foo",
+					"var D = jd - 2451545.0;\n		var g = DMath.fixAngle(357.529 + 0.98560028* D);\n		var q = DMath.fixAngle(280.459 + 0.98564736* D);\n		var L = DMath.fixAngle(q + 1.915* DMath.sin(g) + 0.020* DMath.sin(2*g));\n\n		var R = 1.00014 - 0.01671* DMath.cos(g) - 0.00014* DMath.cos(2*g);\n		var e = 23.439 - 0.00000036* D;\n\n		var RA = DMath.arctan2(DMath.cos(e)* DMath.sin(L), DMath.cos(L))/ 15;\n		var eqt = q/15 - DMath.fixHour(RA);\n		var decl = DMath.arcsin(DMath.sin(e)* DMath.sin(L));\n\n		return {declination: decl, equation: eqt};",
+					"fixangle",
+					"setCustomParams",
+					"Custom",
+					"15",
+					"200",
+					"towFirst",
+					"Homme",
+					"div",
+					"bootply",
+					"</td></td>",
+					"nom",
+					"client_rem",
+					"<?php echo",
+					"label",
+					" <label for",
+					"<b for",
+					"label",
+					"div",
+					"label",
+					"</div> >",
+					"EditClient",
+					"value=\"",
+					"log",
+					"255",
+					"Message",
+					"success",
+					"Identification",
+					"password",
+					"value=",
+					"placeholder",
+					"\"",
+					"Client",
+					"auth",
+					"br",
+					"h3",
+					"no-more-tables",
+					"cf",
+					"success",
+					"bg-success",
+					"#contact",
+					"contact",
+					"clients_table",
+					"table",
+					"client_table",
+					"no-more-tables",
+					"<tr>\n        				<td data-title=\"Code\">AAC</td>\n        				<td data-title=\"Company\">AUSTRALIAN AGRICULTURAL COMPANY LIMITED.</td>\n        				<td data-title=\"Price\" class=\"numeric\">$1.38</td>\n        				<td data-title=\"Change\" class=\"numeric\">-0.01</td>\n        				<td data-title=\"Change %\" class=\"numeric\">-0.36%</td>\n        				<td data-title=\"Open\" class=\"numeric\">$1.39</td>\n        				<td data-title=\"High\" class=\"numeric\">$1.39</td>\n        				<td data-title=\"Low\" class=\"numeric\">$1.38</td>\n        				<td data-title=\"Volume\" class=\"numeric\">9,395</td>\n        			</tr>",
+					"no-more-tables",
+					"php",
+					"message",
+					"_GET",
+					"type",
+					";\n",
+					"message",
+					"error",
+					"GET",
+					"Flash",
+					"Flash$",
+					"Flash",
+					"Flash::",
+					"Flash",
+					"Flas",
+					"='';\n",
+					"Flash",
+					"Flah",
+					"Flasg",
+					"Flash",
+					"PSql",
+					"Psql",
+					"Query",
+					"Client",
+					"use Illuminate\\Database\\Capsule\\Manager as Capsule;",
+					"$DB",
+					"DB"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"layouts.goldolayout",
+					"jules bel",
+					"<a href=\"https://http://www.elancer.me.pn/\" target=\"_blank\">jules bel</a></p>",
+					"text"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"",
+						"app\\Http\\routes.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"authcon",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"usercont",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"itemcontr",
+						"app\\Http\\Controllers\\ItemControlller.php"
+					],
+					[
+						"itemcont",
+						"app\\Http\\Controllers\\ItemControlller.php"
+					],
+					[
+						"midlewareauthen",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"confapp",
+						"config\\app.php"
+					],
+					[
+						"usercon",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"goldola",
+						"resources\\views\\layouts\\goldolayout.blade.php"
+					],
+					[
+						"homecon",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"routes",
+						"app\\Http\\routes.php"
+					],
+					[
+						"roleshow",
+						"resources\\views\\goldobak\\roles\\show.blade.php"
+					],
+					[
+						"roleedi",
+						"resources\\views\\goldobak\\roles\\edit.blade.php"
+					],
+					[
+						"rolecrea",
+						"resources\\views\\goldobak\\roles\\create.blade.php"
+					],
+					[
+						"rolecon",
+						"app\\Http\\Controllers\\RoleController.php"
+					],
+					[
+						"user",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"usersta",
+						"database\\seeds\\UsersTableSeeder.php"
+					],
+					[
+						"itemstableseeder",
+						"database\\seeds\\ItemsTableSeeder.php"
+					],
+					[
+						"seeder",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"itemseed",
+						"database\\seeds\\ItemsTableSeeder.php"
+					],
+					[
+						"data",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"databaseseeder",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"databaseseer",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"createentru",
+						"database\\migrations\\2016_08_05_212609_create_entrust_table.php"
+					],
+					[
+						"configentr",
+						"config\\entrust.php"
+					],
+					[
+						"permissionta",
+						"database\\seeds\\permissionTableSeeder.php"
+					],
+					[
+						"entrustreole",
+						"app\\Goldobak\\EntrustRepository\\Role.php"
+					],
+					[
+						"item",
+						"app\\Models\\Item.php"
+					],
+					[
+						"user.",
+						"app\\Models\\User.php"
+					],
+					[
+						"homecontroller",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"entrusttab",
+						"database\\migrations\\2016_08_05_212609_create_entrust_table.php"
+					],
+					[
+						"createitem",
+						"database\\migrations\\2016_08_05_212430_create_items_table.php"
+					],
+					[
+						"authentica",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"authent",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"configapp",
+						"config\\app.php"
+					],
+					[
+						"middleauth",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"homecont",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"web.",
+						"public\\web.config"
+					],
+					[
+						"authco",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"createusers",
+						"database\\migrations\\2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"gol",
+						"config\\GoldoBak.php"
+					],
+					[
+						"iori",
+						"config\\iori.php"
+					],
+					[
+						"cdata",
+						"config\\database.php"
+					],
+					[
+						"permis",
+						"app\\Models\\Permission.php"
+					],
+					[
+						"role",
+						"app\\Models\\Role.php"
+					],
+					[
+						"modelsuser",
+						"app\\Models\\User.php"
+					],
+					[
+						"apphttpkernel",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"app.php",
+						"bootstrap\\app.php"
+					],
+					[
+						"comoser",
+						"composer.json"
+					],
+					[
+						"mana",
+						"manage.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"prof",
+						"profile.php"
+					],
+					[
+						"ajo",
+						"ajouter_client.php"
+					],
+					[
+						"pro",
+						"profile.php"
+					],
+					[
+						"public",
+						"public_profile.php"
+					],
+					[
+						"f",
+						"_footer.php"
+					],
+					[
+						"inde",
+						"index.php"
+					],
+					[
+						"pub",
+						"public_profile.php"
+					],
+					[
+						"header",
+						"_header_main.php"
+					],
+					[
+						"headerma",
+						"_header_main.php"
+					],
+					[
+						"shee",
+						"css\\sheet.css"
+					],
+					[
+						"_h",
+						"_header.php"
+					],
+					[
+						"i",
+						"index.php"
+					],
+					[
+						"publc",
+						"public_profile.php"
+					],
+					[
+						"del",
+						"del.php"
+					],
+					[
+						"pr",
+						"profile.php"
+					],
+					[
+						"authc",
+						"auth_client.php"
+					],
+					[
+						"edit",
+						"edition.php"
+					],
+					[
+						"edi",
+						"edition.php"
+					],
+					[
+						"log",
+						"log.php"
+					],
+					[
+						"auth",
+						"auth.php"
+					],
+					[
+						"_hear",
+						"_header.php"
+					],
+					[
+						"update",
+						"update.php"
+					],
+					[
+						"trai",
+						"trait.php"
+					],
+					[
+						"ajoute",
+						"ajouter_client.php"
+					],
+					[
+						"tra",
+						"trait.php"
+					],
+					[
+						"he",
+						"_header.php"
+					],
+					[
+						"sheer",
+						"vendor\\illuminate\\support\\helpers.php"
+					],
+					[
+						"head",
+						"_header_backend.php"
+					],
+					[
+						"manage",
+						"manage.php"
+					],
+					[
+						"message",
+						"core\\Libs\\Message.php"
+					],
+					[
+						"heade",
+						"_header_backend.php"
+					],
+					[
+						"hea",
+						"header.php"
+					],
+					[
+						"page",
+						"Config\\pages.php"
+					],
+					[
+						"ajou",
+						"ajouter_client.php"
+					],
+					[
+						"mnage",
+						"manage.php"
+					],
+					[
+						"boot",
+						"css\\boot.css"
+					],
+					[
+						"sheet",
+						"css\\sheet.css"
+					],
+					[
+						"ed",
+						"edition.php"
+					],
+					[
+						"man",
+						"manage.php"
+					],
+					[
+						"udpa",
+						"update.php"
+					],
+					[
+						"trait",
+						"trait.php"
+					],
+					[
+						"init",
+						"core\\init.php"
+					],
+					[
+						"aut",
+						"auth.php"
+					],
+					[
+						"upda",
+						"update.php"
+					],
+					[
+						"ma",
+						"manage.php"
+					],
+					[
+						"client",
+						"core\\Libs\\Clients.php"
+					],
+					[
+						"iden",
+						"core\\Libs\\Identifications.php"
+					],
+					[
+						"sheed",
+						"vendor\\symfony\\translation\\Dumper\\PhpFileDumper.php"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"manag",
+						"manage.php"
+					],
+					[
+						"footer",
+						"core\\Footer.php"
+					],
+					[
+						"appjs",
+						"js\\app.js"
+					],
+					[
+						"lo",
+						"log.php"
+					],
+					[
+						"logout",
+						"logout.php"
+					],
+					[
+						"loout",
+						"logout.php"
+					],
+					[
+						"lout",
+						"logout.php"
+					],
+					[
+						"messa",
+						"core\\Libs\\Message.php"
+					],
+					[
+						"logo",
+						"logout.php"
+					],
+					[
+						"ini",
+						"core\\init.php"
+					],
+					[
+						"sge",
+						"vendor\\illuminate\\database\\Query\\Grammars\\SQLiteGrammar.php"
+					],
+					[
+						"css",
+						"vendor\\illuminate\\database\\Connectors\\SqlServerConnector.php"
+					],
+					[
+						"mess",
+						"core\\Libs\\Message.php"
+					],
+					[
+						"ps",
+						"core\\Libs\\Psql.php"
+					],
+					[
+						"psq",
+						"core\\Libs\\Psql.php"
+					],
+					[
+						"logou",
+						"logout.php"
+					],
+					[
+						"app",
+						"js\\app.js"
+					],
+					[
+						"m",
+						"manage.php"
+					],
+					[
+						"she",
+						"css\\sheet.css"
+					],
+					[
+						"clients",
+						"core\\Libs\\Clients.php"
+					],
+					[
+						"bas",
+						"core\\libs\\BaseMod.php"
+					],
+					[
+						"base",
+						"core\\libs\\BaseL.php"
+					],
+					[
+						"clientsen",
+						"core\\Entities\\ClientsEntity.php"
+					],
+					[
+						"libcl",
+						"core\\libs\\Clients.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 140.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Gin",
+						"GinF"
+					],
+					[
+						"des",
+						"destFileName"
+					],
+					[
+						"Messa",
+						"MessageBox"
+					],
+					[
+						"sec",
+						"secondTest"
+					],
+					[
+						"reamt",
+						"real-time	(index.php)"
+					],
+					[
+						"hello",
+						"hello"
+					],
+					[
+						"form",
+						"form-group"
+					],
+					[
+						"curf",
+						"$curFrom〔variable〕"
+					],
+					[
+						"Lo",
+						"LOW"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"_header",
+						"_header_main.php"
+					],
+					[
+						"Pro",
+						"ProfileClient"
+					],
+					[
+						"Core",
+						"Core\\Libs\\Clients〔class〕"
+					],
+					[
+						"last",
+						"lastClient"
+					],
+					[
+						"client",
+						"client_auth	(auth_client.php)"
+					],
+					[
+						"mana",
+						"manage	(del.php)"
+					],
+					[
+						"id",
+						"id_client"
+					],
+					[
+						"auth",
+						"auth.php"
+					],
+					[
+						"i",
+						"iut	(Protect.php)"
+					],
+					[
+						"L",
+						"Libs	(trait.php)"
+					],
+					[
+						"Conn",
+						"Conn"
+					],
+					[
+						"Conne",
+						"Connexion	(log.php)"
+					],
+					[
+						"Cl",
+						"Clients"
+					],
+					[
+						"val",
+						"value	Attr"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"ident",
+						"identifiants	(Clients.php)"
+					],
+					[
+						"new",
+						"newClient"
+					],
+					[
+						"Client",
+						"ClientsEntity"
+					],
+					[
+						"cl",
+						"ClientsEntity〔namespace〕"
+					],
+					[
+						"core",
+						"core\\libs\\ClientsEntity〔class〕"
+					],
+					[
+						"not",
+						"notif"
+					],
+					[
+						"del",
+						"deleteId〔function〕"
+					],
+					[
+						"addcl",
+						"addclient.php"
+					],
+					[
+						"C",
+						"ClientIdentifications"
+					],
+					[
+						"Clien",
+						"$ClientIdentifications〔variable〕"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"pren",
+						"prenom"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"D",
+						"DBAL	(init.php)"
+					],
+					[
+						"indx",
+						"index.php"
+					],
+					[
+						"div",
+						"division"
+					],
+					[
+						"op",
+						"opration"
+					],
+					[
+						"curlsetop",
+						"curl_setopt_array"
+					],
+					[
+						"dot",
+						"dots.sublime-macro"
+					],
+					[
+						"class",
+						"class_alias"
+					],
+					[
+						"w",
+						"world	(Hello.php)"
+					],
+					[
+						"I",
+						"IHack	(Hack.php)"
+					],
+					[
+						"kna",
+						"KnaContract"
+					],
+					[
+						"Kna",
+						"KnaServiceProvider	(app.php)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<?php\n\nnamespace App\\Http\\Controllers;\n\nuse App\\Http\\Controllers\\Controller;\nuse App\\Models\\User;\nuse App\\Goldobak\\EntrustRepository\\Role;\nuse DB;\nuse Hash;\nuse Illuminate\\Http\\Request;\n\nclass UserController extends Controller\n{\n\n    /**\n     * Display a listing of the resource.\n     *\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function index(Request $request)\n    {\n        $data = User::orderBy('id','DESC')->paginate(5);\n        return view('goldobak.users.index',compact('data'))\n            ->with('i', ($request->input('page', 1) - 1) * 5);\n    }\n\n    /**\n     * Show the form for creating a new resource.\n     *\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function create()\n    {\n        $roles = Role::lists('display_name','id');\n        return view('users.create',compact('roles'));\n    }\n\n    /**\n     * Store a newly created resource in storage.\n     *\n     * @param  \\Illuminate\\Http\\Request  $request\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function store(Request $request)\n    {\n        $this->validate($request, [\n            'name' => 'required',\n            'email' => 'required|email|unique:users,email',\n            'password' => 'required|same:confirm-password',\n            'roles' => 'required'\n        ]);\n\n        $input = $request->all();\n        $input['password'] = Hash::make($input['password']);\n\n        $user = User::create($input);\n        foreach ($request->input('roles') as $key => $value) {\n            $user->attachRole($value);\n        }\n\n        return redirect()->route('users.index')\n                        ->with('success','User created successfully');\n    }\n\n    /**\n     * Display the specified resource.\n     *\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function show($id)\n    {\n        $user = User::find($id);\n        return view('users.show',compact('user'));\n    }\n\n    /**\n     * Show the form for editing the specified resource.\n     *\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function edit($id)\n    {\n        $user = User::find($id);\n        $roles = Role::lists('display_name','id');\n        $userRole = $user->roles->lists('id','id')->toArray();\n\n        return view('users.edit',compact('user','roles','userRole'));\n    }\n\n    /**\n     * Update the specified resource in storage.\n     *\n     * @param  \\Illuminate\\Http\\Request  $request\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function update(Request $request, $id)\n    {\n        $this->validate($request, [\n            'name' => 'required',\n            'email' => 'required|email|unique:users,email,'.$id,\n            'password' => 'same:confirm-password',\n            'roles' => 'required'\n        ]);\n\n        $input = $request->all();\n        if(!empty($input['password'])){ \n            $input['password'] = Hash::make($input['password']);\n        }else{\n            $input = array_except($input,array('password'));    \n        }\n\n        $user = User::find($id);\n        $user->update($input);\n        DB::table('role_user')->where('user_id',$id)->delete();\n\n        \n        foreach ($request->input('roles') as $key => $value) {\n            $user->attachRole($value);\n        }\n\n        return redirect()->route('users.index')\n                        ->with('success','User updated successfully');\n    }\n\n    /**\n     * Remove the specified resource from storage.\n     *\n     * @param  int  $id\n     * @return \\Illuminate\\Http\\Response\n     */\n    public function destroy($id)\n    {\n        User::find($id)->delete();\n        return redirect()->route('users.index')\n                        ->with('success','User deleted successfully');\n    }\n}",
+					"file": "/C/wamp64/www/goldobak/app/Http/Controllers/UserController.php",
+					"file_size": 3741,
+					"file_write_time": 131149953399332749,
+					"settings":
+					{
+						"buffer_size": 3741,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php \n 	\n$domain = 'sandbox1edcc40341ba416b90983c2b6e05da1a.mailgun.org';\n$apiKey = 'key-8395777fa6100fb7f6c76c0e7126ffbb';\n#https://api.mailgun.net/v3/elancer.me.pn\n# First, instantiate the SDK with your API credentials and define your domain. \n$mg = new Mailgun($apiKey, null, 'http://bin.mailgun.net/72bdb038');\n$mg->setApiVersion('aecf68de');\n$mg->setSslEnabled(false);\n\n# Now, compose and send your message.\n$mg->sendMessage($domain, array('from'    => 'postmaster@sandbox1edcc40341ba416b90983c2b6e05da1a.mailgun.org', \n                                'to'      => 'isannony@gmail.com', \n                                'subject' => 'The PHP SDK is awesome!', \n                                'text'    => 'It is so simple to send a message.'));\n\n\nadmin : all permission \n		edit create , delete , add a reader and add an Editor : \n\nreader validator :  read only and validate our post \nEditor , create and edit the posts , \n\nRessources , blog posts .\njust testing  	\n\n ?>",
+					"file": "/C/wamp64/www/demo/mailgun/index.php",
+					"file_size": 959,
+					"file_write_time": 131157407042711824,
+					"settings":
+					{
+						"buffer_size": 976,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "http://pu27ks2bl2.1fichier.com\nhttp://zwe140dl21.1fichier.com\nhttp://zvgnptzbk3.1fichier.com\nhttp://tvupf77x4b.1fichier.com\nhttp://mxa2dxje8x.1fichier.com\nhttp://qbma4jsour.1fichier.com\nhttp://wxi5japp14.1fichier.com\nhttp://0e7st9rewo.1fichier.com\nhttp://2qrop6dopn.1fichier.com\nhttp://jwbn5qqf2w.1fichier.com\nhttp://9qprda2v96.1fichier.com\nhttp://w30ifphibq.1fichier.com\nhttp://fmlkkm5ccu.1fichier.com\nhttp://5abbp5mzne.1fichier.com\nhttp://kbq7s0ktl0.1fichier.com\nhttp://f1je8g66u8.1fichier.com\nhttp://g2jj236vx2.1fichier.com\nhttp://ebkqe2smok.1fichier.com\nhttp://mes8i1o4ui.1fichier.com\nhttp://gxq2t17r8p.1fichier.com\n\n\n javascript:%20var%20domain%20=%20'1fichier.com';var%20cookies%20=%20new%20Array();cookies['SID']%20=%20'xv9fQKSK7Vhv7K=oCMzOyCdToaGFFQ0bfDzr4shpIpuWe2FoJwYuGM0fJYBJkPDr';if%20(location.href.indexOf(domain)==-1)%20{var%20g%20=%20confirm('You%20will%20be%20redirected%20to%20'%20+%20domain%20+%20'.%20You%20will%20have%20to%20run%20this%20script%20again.%20Continue?');if%20(g)%20{location.href%20=%20'http://'%20+%20domain;}}%20else%20{alert(\"..::xavieraccounts.blogspot.com::..\");for(var%20i%20in%20cookies){void(document.cookie%20=%20i+'='+cookies[i]+';domain=.'+domain+';path=/;');}location.href%20=%20'http://'+domain;}\n",
+					"settings":
+					{
+						"buffer_size": 1246,
+						"line_ending": "Windows",
+						"name": "http://pu27ks2bl2.1fichier.com"
+					}
+				},
+				{
+					"contents": "http://cz1ogjd1og.1fichier.com\nhttp://70rgawfgg6.1fichier.com\nhttp://nmpho7ya1q.1fichier.com\nhttp://f9m1gxf31f.1fichier.com\nhttp://8ul3g7t2da.1fichier.com\nhttp://0tol0cto8v.1fichier.com\nhttp://tcz02fupkr.1fichier.com\nhttp://of3dri7eoy.1fichier.com\nhttp://ybpq6q7hzt.1fichier.com\nhttp://2iqt3f51tz.1fichier.com\nhttp://pr4m27gx2w.1fichier.com\nhttp://d766z7rmn9.1fichier.com\nhttp://53r3m9w0hj.1fichier.com\nhttp://xl332gm2a0.1fichier.com\nhttp://fmeob4vclf.1fichier.com\nhttp://0dbfzzda9o.1fichier.com\nhttp://qz47n7bhkh.1fichier.com\nhttp://t6a3xsacdg.1fichier.com\nhttp://w0fck3c2wh.1fichier.com\nhttp://nya0hubo6c.1fichier.com",
+					"settings":
+					{
+						"buffer_size": 619,
+						"line_ending": "Windows",
+						"name": "http://cz1ogjd1og.1fichier.com"
+					}
+				},
+				{
+					"contents": "using System;\nusing System.Collections.Generic;\nusing System.Linq;\nusing System.Text;\nusing System.Windows.Forms;\nusing System.Drawing;\nusing SharpShell;\nusing SharpShell.SharpContextMenu; //ABSTRACT CLASS SHARPCONTEXTMENU\nusing System.IO;\nusing System.Runtime.InteropServices; //COMVISIBLE\nusing SharpShell.Attributes; //COMSERVERASSOCIATIONS\nusing System.Collections;\n\nnamespace GinFLib\n{\n\n    [ComVisible(true)]\n    [COMServerAssociation(AssociationType.AllFiles)]\n    public class GinFLib : SharpContextMenu\n    {\n\n        public string UserNameFolder;\n        protected override bool CanShowMenu()\n        {\n            return true; //Allways show, false to hide. Can be done on specific filetypes\n        }\n\n        protected override ContextMenuStrip CreateMenu()\n        {\n            //  Create menu strip.\n            var menu = new ContextMenuStrip();\n\n\n            var itemCountLines = new ToolStripMenuItem\n            {\n                Text = \"Gin ...V2\"\n            };\n\n            //  Handler\n            itemCountLines.Click += (sender, args) => CountLines();\n\n            //  Add item to context menu.\n            menu.Items.Add(itemCountLines);\n\n            //  Return menu.\n            return menu;\n        }\n\n        private void CountLines()\n        {\n            GinForm GinF = new GinForm();\n            GinF.Show();\n            GinF.Closed += new EventHandler(CreateFolder);                        \n        }\n\n        private void CreateFolder(object sender , EventArgs e)\n        {\n\n            GinForm GinForm = (GinForm)sender;\n            this.UserNameFolder = GinForm.FinalFolderName;\n\n            IEnumerator item = SelectedItemPaths.GetEnumerator();\n            item.MoveNext();\n           \n            FileInfo fileInfo = new FileInfo(item.Current.ToString());\n            string directoryFullPath = fileInfo.DirectoryName;\n\n            string path = directoryFullPath.ToString() + \"\\\\\" + this.UserNameFolder;\n            Directory.CreateDirectory(path+\"\\\\\"+this.UserNameFolder);\n            QueueMoveFiles(path);\n        }\n\n\n        private void QueueMoveFiles(string path)\n        {\n            //  Go through each file.\n            foreach (var filePath in SelectedItemPaths)\n            {\n                string NewFilePath=Path.GetFileName(filePath);\n                Move(filePath, path + \"\\\\\" + NewFilePath);\n\n                //File.Move(filePath, );\n\n            }\n        }\n\n\n        public static void Move(string sourceFileName, string destFileName)\n        {\n            if ((sourceFileName == null) || (destFileName == null))\n            {\n                throw new ArgumentNullException((sourceFileName == null) ? \"sourceFileName\" : \"destFileName\" );\n            }\n            if ((sourceFileName.Length == 0) || (destFileName.Length == 0))\n            {\n                throw new ArgumentException( (sourceFileName.Length == 0) ? \"sourceFileName\" : \"destFileName\");\n            }\n\n            // Ensure that the target does not exist.\n            if (File.Exists(destFileName))\n            {\n\n            }\n\n            try\n            {\n                if (!File.Exists(sourceFileName))\n                {\n                    // This statement ensures that the file is created,\n                    // but the handle is not kept.\n                    using (FileStream fs = File.Create(sourceFileName)) { }\n                }\n\n                \n                    \n\n                // Move the file.\n                File.Move(sourceFileName, destFileName);\n                Console.WriteLine(\"{0} was moved to {1}.\", sourceFileName, destFileName);\n\n                // See if the original exists now.\n                if (File.Exists(sourceFileName))\n                {\n                    MessageBox.Show(\"The original file still exists, which is unexpected.\");\n                }\n                else\n                {\n                    MessageBox.Show(\"The original file no longer exists, which is expected.\");\n                }\n\n            }\n            catch (Exception e)\n            {\n                MessageBox.Show(\"The process failed: {0}\", e.ToString());\n            }\n        }\n        }\n}",
+					"settings":
+					{
+						"buffer_size": 4143,
+						"line_ending": "Windows",
+						"name": "using System;"
+					}
+				},
+				{
+					"contents": "http://www.multiup.org/fr/download/f135c7798265c6ed94510c175e358b6d/Mystery_-_Oh_my_ghost_03_HD.avi\n\nhttp://www.multiup.org/download/a544e531d827a2eeb642167bb69e7e80/Mystery_-_Oh_my_ghost_04_HD.avi\n\nhttp://www.multiup.org/fr/download/1b42f767519671c6368448e09b1a3f97/Mystery_-_Oh_my_ghost_05_HD.avi\n\nhttp://www.multiup.org/download/e5d3091bf0093ea2c78973618b3278fc/Mystery_-_Oh_my_ghost_06_HD.avi\n\nhttp://www.multiup.org/fr/download/df45f4d4162219939aa6d012f6de507d/_Mystery__Oh_My_Ghost_07_HD.avi\n\nhttp://www.multiup.org/fr/download/9369bc3421bbe979cb7064123957dabf/_Mystery__Oh_My_Ghost_08_HD.avi\n\nhttp://www.multiup.org/fr/download/972fb249f0dd789f7074e5d552593cca/_Mystery__Oh_My_Ghost_09_HD.avi\n\nhttp://www.multiup.org/fr/download/f41fd9193fa717c93e01921b248239b8/_Mystery__Oh_My_Ghost_10_HD.avi\n\nhttp://www.multiup.org/fr/download/61e9d352453230c39891769aeab58f73/_Mystery__Oh_My_Ghost_11_HD.avi\n\nhttp://www.multiup.org/fr/download/c71b67a03b07b22566dc272246c94497/_Mystery__Oh_My_Ghost_12_HD.avi\n\nhttp://www.multiup.org/download/b516d7c644d0481b9e2f2f8f6e686423/_Mystery__Oh_My_Ghost_13_HD.avi\n\nhttp://www.multiup.org/fr/download/4404b44c3ec4f05902b227f37ec3e305/_Mystery__Oh_My_Ghost_14_HD.avi\n\nhttp://www.multiup.org/download/dc52eeaf732afe8df109b88b46f19ea1/_Mystery__Oh_My_Ghost_15_HD.avi\n\nhttp://www.multiup.org/download/65c6b2d4e870e1666e4a2ef42722f998/_Mystery__Oh_My_Ghost_16_HD_-_FIN.avi",
+					"settings":
+					{
+						"buffer_size": 1403,
+						"line_ending": "Windows",
+						"name": "http://www.multiup.org/fr/download/f135c7798265c6e"
+					}
+				},
+				{
+					"contents": "<?php \n\n\n/**\n * DateTime\n */\nclass DateTime\n{\n    /**\n     * summary\n     */\n    protected $DateTime;\n\n    public function __construct($DateTime)\n    {\n        \n    	$this->DateTime = $DateTime;\n    }\n\n    public function Example(){\n    	return \"example\";	\n    }\n}\n\n\n\n ?>",
+					"settings":
+					{
+						"buffer_size": 271,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/GinF/_install.bat",
+					"settings":
+					{
+						"buffer_size": 57,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "http://www.multiup.org/fr/download/16b371c279fc6e482a3784504c0eb937/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_01.avi\nhttp://www.multiup.org/fr/download/878e9923d6d35df4983e2242f36b1d34/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_02.avi\nhttp://www.multiup.org/fr/download/3d401456056e7b7aaeac375560629833/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_03.avi\nhttp://www.multiup.org/fr/download/211beb383c7827626b17c31fa911a9ac/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_04.avi\nhttp://www.multiup.org/fr/download/c7cba37fe7d2425f9260e9b9f65840c9/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_05.avi\n\nhttp://www.multiup.org/fr/download/454bc1d71ebe5c27354a2f2d4bf1410a/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_06.avi\nhttp://www.multiup.org/fr/download/a72e2eb7930ac5eb9dab7c5b8981a608/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_07.avi\nhttp://www.multiup.org/fr/download/47482a62f49e5dd392dd2e8daf2f648c/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_08.avi\nhttp://www.multiup.org/fr/download/bc935bae29007c9ed95ed2d2b9b665ca/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_09.avi\nhttp://www.multiup.org/fr/download/2329b68f3e66e0c190e791023865b6ed/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_10.avi\n\nhttp://www.multiup.org/fr/download/287a994736fc0b3ebbec9a39278b55cf/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_11.avi\nhttp://www.multiup.org/fr/download/576d0bdf63c24129d24f4eb2c0cc53e0/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_12.avi\nhttp://www.multiup.org/fr/download/7ed935f060f507c7e5e3a6098f15da7b/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_13.avi\nhttp://www.multiup.org/fr/download/660ca3118135efd923e6a61a9cd5e7ef/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_14.avi\nhttp://www.multiup.org/fr/download/860b97a80e0acc8bbb0a00d93e3bef21/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_15.avi\n\nhttp://www.multiup.org/fr/download/c4645435904137e0e9d97de79b6155e5/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_16.avi\nhttp://www.multiup.org/fr/download/8fee40577829f0243f54fae9022cbede/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_17.avi\nhttp://www.multiup.org/fr/download/a004eeb308378415711f70388e8e31a5/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_18.avi\nhttp://www.multiup.org/fr/download/fcaf4c7405ba1f95b894872ab880e0f3/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_19.avi\nhttp://www.multiup.org/fr/download/d7f2b086d761c0bc67c426ba45d51bdf/_LD_E__KILL_ME_HEAL_ME_-_EPISODE_20.avi",
+					"settings":
+					{
+						"buffer_size": 2162,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp64/www/Packagetest/vendor/dwij/laraadmin/composer.json",
+					"settings":
+					{
+						"buffer_size": 1073,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "DAN DAN kokoro hikarete ’ku1\nSono mabushii egao ni\nHatenai yami2 kara tobidasô　Hold my hand\n\nKimi to deatta toki\nKodomo no koro　taisetsu ni omotte ita\n basho3 o omoidashita n’ da\nBoku to odotte kurenai ka\nHikari to kage no Winding Road\n　ima de mo　aitsu ni muchû na no?\nSukoshi dake　furimukitaku \nnaru yô na toki mo aru kedo\nAi to yûki to hokori o motte tatakau yo\n\nDAN DAN kokoro hikarete ’ku1\nKono hoshi4 no kibô no kakera\nKitto daremo ga　eien o te ni iretai\nZEN ZEN ki ni shinai furi shite mo\nHora kimi ni koi shite ’ru\nHatenai yami2 kara tobidasô　Hold your hand\n\nOkotta kao mo tsukarete ’ru kimi mo suki da kedo\nAn’na ni tobashite ikite　daijôbu ka na to omou\nBoku wa...nanigenai shigusa5 ni furimawasarete ’ru　sea side blue\nSore de mo　aitsu ni muchû na no?\nMotto kikitai koto ga atta no ni\nFutari no kaiwa ga　kuruma no oto ni \nhabamarete tôri ni mau yo\n\nDAN DAN kokoro hikarete ’ku1\nJibun de mo fushigi nan da kedo\nNani ka aru to sugu6 ni　kimi ni denwa \nshitaku naru\nZEN ZEN ki no nai furi shite mo\nKekkyoku　kimi no koto dake mite ita\n",
+					"settings":
+					{
+						"buffer_size": 1038,
+						"line_ending": "Windows",
+						"name": "DAN DAN kokoro hikarete ’ku1"
+					}
+				},
+				{
+					"contents": "# Include the Autoloader (see \"Libraries\" for install instructions)\nrequire 'vendor/autoload.php';\nuse Mailgun\\Mailgun;\n\n# Instantiate the client.\n$mgClient = new Mailgun('key-8395777fa6100fb7f6c76c0e7126ffbb');\n$domain = \"sandbox1edcc40341ba416b90983c2b6e05da1a.mailgun.org\";\n\n# Make the call to the client.\n$result = $mgClient->sendMessage(\"$domain\",\n                  array('from'    => 'Mailgun Sandbox <postmaster@sandbox1edcc40341ba416b90983c2b6e05da1a.mailgun.org>',\n                        'to'      => 'Jules Bel <isannony@gmail.com>',\n                        'subject' => 'Hello Jules Bel',\n                        'text'    => 'Congratulations Jules Bel, you just sent an email with Mailgun!  You are truly awesome!  You can see a record of this email in your logs: https://mailgun.com/cp/log .  You can send up to 300 emails/day from this sandbox server.  Next, you should add your own domain so you can send 10,000 emails/month for free.'));\n    ",
+					"settings":
+					{
+						"buffer_size": 959,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+					"settings":
+					{
+						"buffer_size": 36028,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/wamp64/www/goldobak/app/Http/Controllers/HomeController.php",
+					"settings":
+					{
+						"buffer_size": 525,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 231.0,
+				"last_filter": "pack rem",
+				"selected_items":
+				[
+					[
+						"pack rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"syn php",
+						"Set Syntax: PHP"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"s",
+						"Set Syntax: PHP"
+					],
+					[
+						"format php",
+						"CodeFormatter: Format as PHP Syntax"
+					],
+					[
+						"anf",
+						"ANF: Delete Current File"
+					],
+					[
+						"n",
+						"ANF: New File"
+					],
+					[
+						"anf n",
+						"ANF: New File"
+					],
+					[
+						"nf n",
+						"ANF: New File"
+					],
+					[
+						"nf dec",
+						"ANF: Delete Current File"
+					],
+					[
+						"nf",
+						"ANF: New File"
+					],
+					[
+						"anf e",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"anf re",
+						"ANF: Rename File"
+					],
+					[
+						"anf ",
+						"ANF: New File"
+					],
+					[
+						"and c",
+						"ANF: Delete Current File"
+					],
+					[
+						"artisan make cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"anf ne",
+						"ANF: New File"
+					],
+					[
+						"anf de",
+						"ANF: Delete Current File"
+					],
+					[
+						"artisan miga",
+						"Laravel Artisan 5: Migrate"
+					],
+					[
+						"anf rena ",
+						"ANF: Rename File"
+					],
+					[
+						"pack lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pack re",
+						"Package Control: Remove Channel"
+					],
+					[
+						"artisan make:controller ",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"pack i s",
+						"Package Control: Install Package"
+					],
+					[
+						"ynphp",
+						"Set Syntax: PHP"
+					],
+					[
+						"yn php",
+						"Set Syntax: PHP"
+					],
+					[
+						"yn css",
+						"Set Syntax: CSS"
+					],
+					[
+						"syn ",
+						"Set Syntax: PHP"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"syn hr",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"syn javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sync ja",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"synjava s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn java",
+						"Set Syntax: Java"
+					],
+					[
+						"sync#",
+						"Set Syntax: C#"
+					],
+					[
+						"synhtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"syn sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"sys php",
+						"Set Syntax: PHP"
+					],
+					[
+						"pack cins",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"packins",
+						"Package Control: Install Package"
+					],
+					[
+						"dest c",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"clone ri",
+						"Origami: Clone File to Pane on the Right"
+					],
+					[
+						"or cr r",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"or des a",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"or c r",
+						"Origami: Create Pane Above"
+					],
+					[
+						"desr",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"clone r",
+						"Origami: Clone File to Pane on the Right"
+					],
+					[
+						"create r",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"clone file ",
+						"Origami: Clone File to Pane Below"
+					],
+					[
+						"clone righ",
+						"Origami: Clone File to Pane on the Right"
+					],
+					[
+						"dest",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"or foc r",
+						"Origami: Focus on Pane on the Right"
+					],
+					[
+						"DES",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"ORIG CREAT WIT",
+						"Origami: Create Pane with File Above"
+					],
+					[
+						"or foc L",
+						"Origami: Focus on Pane on the Left"
+					],
+					[
+						"destr abo",
+						"Origami: Destroy Pane Above"
+					],
+					[
+						"ori abo",
+						"Origami: Create Pane Above"
+					],
+					[
+						"or pane r",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"hello",
+						"HTML: Wrap Selection With Tag"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"anf file",
+						"ANF: New File"
+					],
+					[
+						"new fol",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"new file ",
+						"ANF: New File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"new folder ",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"autofile ",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"auto sett",
+						"AutoFileName: Quick Settings"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"ssx html",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"htlml",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"des",
+						"Origami: Destroy Current Pane"
+					],
+					[
+						"origami",
+						"Origami: Create Pane Above"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"ssx php",
+						"Set Syntax: PHP"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"pack insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pck ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 735.0
+			},
+			"console":
+			{
+				"height": 344.0,
+				"history":
+				[
+					"view.run_command('example')",
+					"view.run_command('ExampleCommand')",
+					"ExampleCommand",
+					"view.run_command('ExampleCommand')",
+					"view.run_command('example')",
+					"view.run_command(\"example\")",
+					"view.run_command(\"Example\")",
+					"view.run_command(\"ClassNameFileName\")",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/wamp64/www/goldobak",
+				"/C/wamp64/www/goldobak/app",
+				"/C/wamp64/www/goldobak/app/Goldobak",
+				"/C/wamp64/www/goldobak/app/Http",
+				"/C/wamp64/www/goldobak/app/Http/Controllers"
+			],
+			"file_history":
+			[
+				"/C/wamp64/www/Packagetest/composer.json",
+				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php",
+				"/C/GinF/_install.bat",
+				"/C/GinF/_uninstall.bat",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jules/Desktop/links.txt",
+				"/C/Users/jules/Downloads/Nouveau dossier/[PRR Fansub] LTM 01 vostfr.ass",
+				"/C/wamp64/www/goldobak/app/Http/routes.php",
+				"/C/wamp64/www/demo/pipedrive/index.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/initialize_properties.sublime-macro",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/initialize_properties.sublime-macro.sublime-keymap",
+				"/C/wamp64/www/demo/mailgun/composer.json",
+				"/C/wamp64/www/demo/pipedrive/composer.json",
+				"/C/wamp64/www/demo/peepdrive/index.php",
+				"/C/wamp64/www/goldobak/composer.json",
+				"/C/wamp64/www/goldobak/.env",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/Auth/AuthController.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/RoleController.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/ItemController.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/errors/403.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/create.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/welcome.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/home.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/create.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/show.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/create.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/items/show.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/roles/show.blade.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/HomeController.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/layout/app.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/layouts/goldolayout.blade.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/UserController.php",
+				"/C/wamp64/www/goldobak/config/app.php",
+				"/C/wamp64/www/goldobak/app/Http/Controllers/ItemControlller.php",
+				"/C/wamp64/www/goldobak/app/Http/Middleware/Authenticate.php",
+				"/C/wamp64/www/goldobak/vendor/psy/psysh/src/Psy/ConfigPaths.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/create.blade.php, edit.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/goldobak/users/edit.blade.php show.blade.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/wamp64/www/goldobak/resources/views/Goldobak/users/index.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/Goldobak/errors/403.blade.php",
+				"/C/wamp64/www/goldobak/resources/views/Goldobak/admin/app.blade.php",
+				"/C/wamp64/www/goldobak/config/auth.php",
+				"/C/wamp64/www/goldobak/database/seeds/UsersTableSeeder.php",
+				"/C/wamp64/www/goldobak/database/seeds/ItemsTableSeeder.php",
+				"/C/wamp64/www/goldobak/database/seeds/DatabaseSeeder.php",
+				"/C/wamp64/www/goldobak/config/entrust.php",
+				"/C/wamp64/www/goldobak/app/Goldobak/EntrustRepository/Permission.php",
+				"/C/wamp64/www/goldobak/app/Goldobak/EntrustRepository/Role.php",
+				"/C/wamp64/www/goldobak/database/migrations/2016_08_05_212430_create_items_table.php",
+				"/C/wamp64/www/goldobak/app/Models/User.php",
+				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php",
+				"/C/wamp64/www/goldobak/database/migrations/2016_08_06_181523_createEntrustTables.php",
+				"/C/wamp64/www/goldobak/database/seeds/PermissionTableSeeder.php",
+				"/C/wamp64/www/goldobak/database/migrations/2016_08_05_212609_create_entrust_table.php",
+				"/C/wamp64/www/goldobak/app/Models/Item.php",
+				"/C/wamp64/www/goldobak/app/Item.php",
+				"/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+				"/C/wamp64/www/goldobak/public/web.config",
+				"/C/wamp64/www/goldobak/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/C/wamp64/www/goldobak/app/Http/Kernel.php",
+				"/C/wamp64/www/goldobak/config/database.php",
+				"/C/wamp64/www/goldobak/bootstrap/app.php",
+				"/C/wamp64/www/goldobak/config/Goldobak.php",
+				"/C/wamp64/www/goldobak/config/GoldoBak.php",
+				"/C/wamp64/www/goldobak/app/Models/Role.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/plugin.py",
+				"/C/wamp64/www/goldobak/app/Models/Permission.php",
+				"/C/wamp64/www/goldobak/vendor/zizaco/entrust/src/Entrust/EntrustServiceProvider.php",
+				"/C/wamp64/www/goldobak/config/iori.php",
+				"/C/Users/jules/.valet/Sites/www/valet/valet/src/Configuration.php",
+				"/C/wamp64/www/index.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/wamp64/www/demo/test.php",
+				"/C/wamp64/www/fes/composer.json",
+				"/C/wamp64/www/demo/test2.php",
+				"/C/wamp64/www/demo/pic.php",
+				"/C/wamp64/www/spark/laravel-spark/app/Spark.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/Invoker.php",
+				"/C/wamp64/www/valet/valet/valet.php",
+				"/C/Users/jules/.valet/config.json",
+				"/C/wamp64/www/valet/valet/bin/acrylic/AcrylicHosts.txt",
+				"/C/Users/jules/.valet/Sites/www/goldobak/composer.json",
+				"/C/Users/jules/.valet/Sites/www/goldobak/index.php",
+				"/C/Users/jules/.valet/Sites/www/lms/composer.json",
+				"/C/wamp64/www/valet/valet/server.php",
+				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/ParameterResolver/ResolverChain.php",
+				"/C/wamp64/www/valet/valet/vendor/php-di/invoker/src/ParameterResolver/ParameterResolver.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/php-grammar/README.md",
+				"/C/wamp64/www/project/ajouter_client.php",
+				"/C/Users/jules/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+				"/C/wamp64/www/valet/valet/src/Acrylic.php",
+				"/C/Users/jules/.valet/Drivers/SampleValetDriver.php",
+				"/C/wamp64/www/valet/valet/src/Configuration.php",
+				"/C/wamp64/www/valet/composer.json",
+				"/C/wamp64/www/lms/LMS-Laravel-master/composer.json",
+				"/C/wamp64/www/lsm/composer.json",
+				"/C/Users/jules/AppData/Local/Temp/fz3temp-1/download.php",
+				"/C/Users/jules/AppData/Local/Temp/Temp1_jcart-1.3.zip/jcart-1.3/jcart/jcart.php",
+				"/C/wamp64/www/web/faq.html",
+				"/C/wamp64/www/web/contact.html",
+				"/C/wamp64/www/web/career.html",
+				"/C/wamp64/www/web/book-a-test.html",
+				"/C/wamp64/www/web/blog.html",
+				"/C/wamp64/www/web/about.html",
+				"/C/wamp64/www/web/404.html",
+				"/C/wamp64/www/web/index.html",
+				"/C/wamp64/www/web/instruments.html",
+				"/C/wamp64/www/web/jobs_single.html",
+				"/C/wamp64/www/web/laboratory.html",
+				"/C/wamp64/www/web/login.html",
+				"/C/wamp64/www/web/mobile-app.html",
+				"/C/wamp64/www/web/news.html",
+				"/C/wamp64/www/web/privacy_policy.html",
+				"/C/wamp64/www/web/quality.html",
+				"/C/wamp64/www/web/register.html",
+				"/C/wamp64/www/web/shortcodes.html",
+				"/C/wamp64/www/web/single-instrument.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+					"C:\\wamp64\\www\\goldobak\\resources\\views\\goldobak",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"injectionMaster",
+					"srm install GinFLib.dll -codebase",
+					"m/",
+					";",
+					"/watch?",
+					"https://i.ytimg",
+					"1fichier",
+					"throw new ArgumentNullException((sourceFileName == null) ?",
+					"SetDestinationPath",
+					"CurrentDirectoryPath",
+					"DestinationPath",
+					"SetFormInput",
+					"SetDestinationFolderPath",
+					"SetDestinationFolder",
+					"();\n",
+					"CurrentDirectoryPath",
+					"GinProcess",
+					"GindFormInput",
+					"GinProcess",
+					"GindFormInput",
+					"IputFolderName",
+					"CreateFolder",
+					"GinFormIput",
+					"GinProcess",
+					"directoryFullPath",
+					"CountLines",
+					"itemCountLines",
+					"UserNameFolder",
+					"expand_fqcn",
+					"Merci à",
+					"-> Merci à Warlockpour avoir encodé et uplaodé cet épisode !",
+					"HD : ",
+					"Episode",
+					"MD :",
+					"HD :",
+					"HD",
+					"Auth\\",
+					"layouts.app",
+					"view('",
+					"CRUD2",
+					"itemCRUD2",
+					" ",
+					"CRUD2",
+					"Crud",
+					"itemCRUD2",
+					"ItemCRUD2",
+					"itemCRUD2",
+					"ItemCRUD2",
+					"Security",
+					"jules",
+					"ItemsTableSeeder",
+					"cache ",
+					"use Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers;\n",
+					"use App\\Models\\User;",
+					"use App\\Http\\Controllers\\Controller;",
+					"model",
+					"models",
+					"users",
+					"models",
+					"}\n",
+					"[description]",
+					"\\",
+					"ResolverChain",
+					"session_s",
+					"session",
+					"+\"],",
+					"ddd",
+					"   \n",
+					"W3layouts",
+					"<a href=\"https://w3layouts.com/\" target=\"_blank\">W3layouts</a></p>",
+					"\"",
+					"span",
+					"4",
+					"h2",
+					"success",
+					"Amount",
+					"amount",
+					"select",
+					"div",
+					"../../",
+					"../../dist/",
+					"selected",
+					"to",
+					"SELECTED",
+					"$_POST['to']",
+					"$_POST['from']",
+					"to",
+					"From",
+					"GetDefaultAudioEndpoint",
+					"foo",
+					"var D = jd - 2451545.0;\n		var g = DMath.fixAngle(357.529 + 0.98560028* D);\n		var q = DMath.fixAngle(280.459 + 0.98564736* D);\n		var L = DMath.fixAngle(q + 1.915* DMath.sin(g) + 0.020* DMath.sin(2*g));\n\n		var R = 1.00014 - 0.01671* DMath.cos(g) - 0.00014* DMath.cos(2*g);\n		var e = 23.439 - 0.00000036* D;\n\n		var RA = DMath.arctan2(DMath.cos(e)* DMath.sin(L), DMath.cos(L))/ 15;\n		var eqt = q/15 - DMath.fixHour(RA);\n		var decl = DMath.arcsin(DMath.sin(e)* DMath.sin(L));\n\n		return {declination: decl, equation: eqt};",
+					"fixangle",
+					"setCustomParams",
+					"Custom",
+					"15",
+					"200",
+					"towFirst",
+					"Homme",
+					"div",
+					"bootply",
+					"</td></td>",
+					"nom",
+					"client_rem",
+					"<?php echo",
+					"label",
+					" <label for",
+					"<b for",
+					"label",
+					"div",
+					"label",
+					"</div> >",
+					"EditClient",
+					"value=\"",
+					"log",
+					"255",
+					"Message",
+					"success",
+					"Identification",
+					"password",
+					"value=",
+					"placeholder",
+					"\"",
+					"Client",
+					"auth",
+					"br",
+					"h3",
+					"no-more-tables",
+					"cf"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"layouts.goldolayout",
+					"jules bel",
+					"<a href=\"https://http://www.elancer.me.pn/\" target=\"_blank\">jules bel</a></p>",
+					"text"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/wamp64/www/goldobak/app/Http/Controllers/UserController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3741,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										61,
+										61
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/wamp64/www/demo/mailgun/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 976,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										285,
+										285
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												312,
+												313
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												280,
+												281
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1246,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										185,
+										185
+									]
+								],
+								"settings":
+								{
+									"auto_name": "http://pu27ks2bl2.1fichier.com",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 619,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "http://cz1ogjd1og.1fichier.com",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4143,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4143,
+										4143
+									]
+								],
+								"settings":
+								{
+									"auto_name": "using System;",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"default_dir": "C:\\wamp64\\www\\goldobak",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2296.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1403,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										498,
+										498
+									]
+								],
+								"settings":
+								{
+									"auto_name": "http://www.multiup.org/fr/download/f135c7798265c6e",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 271,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										255,
+										255
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												261,
+												262
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												231,
+												232
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/GinF/_install.bat",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 57,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										57
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2162,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										366,
+										366
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/wamp64/www/Packagetest/vendor/dwij/laraadmin/composer.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1073,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										281,
+										281
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												752,
+												753
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												524,
+												525
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1038,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										790,
+										790
+									]
+								],
+								"settings":
+								{
+									"auto_name": "DAN DAN kokoro hikarete ’ku1",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"default_dir": "C:\\wamp64\\www\\goldobak",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 286.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 959,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										959,
+										959
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/wamp64/www/goldobak/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36028,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										688,
+										688
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/wamp64/www/goldobak/app/Http/Controllers/HomeController.php",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 525,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 46.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 152.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-51,-1,-1,663,316,0,1134",
+			"project": "goldobak0.sublime-project",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"com",
+						"composer.json"
+					],
+					[
+						"",
+						"app\\Http\\routes.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"authcon",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"usercont",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"itemcontr",
+						"app\\Http\\Controllers\\ItemControlller.php"
+					],
+					[
+						"itemcont",
+						"app\\Http\\Controllers\\ItemControlller.php"
+					],
+					[
+						"midlewareauthen",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"confapp",
+						"config\\app.php"
+					],
+					[
+						"usercon",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"goldola",
+						"resources\\views\\layouts\\goldolayout.blade.php"
+					],
+					[
+						"homecon",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"routes",
+						"app\\Http\\routes.php"
+					],
+					[
+						"roleshow",
+						"resources\\views\\goldobak\\roles\\show.blade.php"
+					],
+					[
+						"roleedi",
+						"resources\\views\\goldobak\\roles\\edit.blade.php"
+					],
+					[
+						"rolecrea",
+						"resources\\views\\goldobak\\roles\\create.blade.php"
+					],
+					[
+						"rolecon",
+						"app\\Http\\Controllers\\RoleController.php"
+					],
+					[
+						"user",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"usersta",
+						"database\\seeds\\UsersTableSeeder.php"
+					],
+					[
+						"itemstableseeder",
+						"database\\seeds\\ItemsTableSeeder.php"
+					],
+					[
+						"seeder",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"itemseed",
+						"database\\seeds\\ItemsTableSeeder.php"
+					],
+					[
+						"data",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"databaseseeder",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"databaseseer",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"createentru",
+						"database\\migrations\\2016_08_05_212609_create_entrust_table.php"
+					],
+					[
+						"configentr",
+						"config\\entrust.php"
+					],
+					[
+						"permissionta",
+						"database\\seeds\\permissionTableSeeder.php"
+					],
+					[
+						"entrustreole",
+						"app\\Goldobak\\EntrustRepository\\Role.php"
+					],
+					[
+						"item",
+						"app\\Models\\Item.php"
+					],
+					[
+						"user.",
+						"app\\Models\\User.php"
+					],
+					[
+						"homecontroller",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"entrusttab",
+						"database\\migrations\\2016_08_05_212609_create_entrust_table.php"
+					],
+					[
+						"createitem",
+						"database\\migrations\\2016_08_05_212430_create_items_table.php"
+					],
+					[
+						"authentica",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"authent",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"configapp",
+						"config\\app.php"
+					],
+					[
+						"middleauth",
+						"app\\Http\\Middleware\\Authenticate.php"
+					],
+					[
+						"homecont",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"web.",
+						"public\\web.config"
+					],
+					[
+						"authco",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"createusers",
+						"database\\migrations\\2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"gol",
+						"config\\GoldoBak.php"
+					],
+					[
+						"iori",
+						"config\\iori.php"
+					],
+					[
+						"cdata",
+						"config\\database.php"
+					],
+					[
+						"permis",
+						"app\\Models\\Permission.php"
+					],
+					[
+						"role",
+						"app\\Models\\Role.php"
+					],
+					[
+						"modelsuser",
+						"app\\Models\\User.php"
+					],
+					[
+						"apphttpkernel",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"app.php",
+						"bootstrap\\app.php"
+					],
+					[
+						"comoser",
+						"composer.json"
+					],
+					[
+						"mana",
+						"manage.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"prof",
+						"profile.php"
+					],
+					[
+						"ajo",
+						"ajouter_client.php"
+					],
+					[
+						"pro",
+						"profile.php"
+					],
+					[
+						"public",
+						"public_profile.php"
+					],
+					[
+						"f",
+						"_footer.php"
+					],
+					[
+						"inde",
+						"index.php"
+					],
+					[
+						"pub",
+						"public_profile.php"
+					],
+					[
+						"header",
+						"_header_main.php"
+					],
+					[
+						"headerma",
+						"_header_main.php"
+					],
+					[
+						"shee",
+						"css\\sheet.css"
+					],
+					[
+						"_h",
+						"_header.php"
+					],
+					[
+						"i",
+						"index.php"
+					],
+					[
+						"publc",
+						"public_profile.php"
+					],
+					[
+						"del",
+						"del.php"
+					],
+					[
+						"pr",
+						"profile.php"
+					],
+					[
+						"authc",
+						"auth_client.php"
+					],
+					[
+						"edit",
+						"edition.php"
+					],
+					[
+						"edi",
+						"edition.php"
+					],
+					[
+						"log",
+						"log.php"
+					],
+					[
+						"auth",
+						"auth.php"
+					],
+					[
+						"_hear",
+						"_header.php"
+					],
+					[
+						"update",
+						"update.php"
+					],
+					[
+						"trai",
+						"trait.php"
+					],
+					[
+						"ajoute",
+						"ajouter_client.php"
+					],
+					[
+						"tra",
+						"trait.php"
+					],
+					[
+						"he",
+						"_header.php"
+					],
+					[
+						"sheer",
+						"vendor\\illuminate\\support\\helpers.php"
+					],
+					[
+						"head",
+						"_header_backend.php"
+					],
+					[
+						"manage",
+						"manage.php"
+					],
+					[
+						"message",
+						"core\\Libs\\Message.php"
+					],
+					[
+						"heade",
+						"_header_backend.php"
+					],
+					[
+						"hea",
+						"header.php"
+					],
+					[
+						"page",
+						"Config\\pages.php"
+					],
+					[
+						"ajou",
+						"ajouter_client.php"
+					],
+					[
+						"mnage",
+						"manage.php"
+					],
+					[
+						"boot",
+						"css\\boot.css"
+					],
+					[
+						"sheet",
+						"css\\sheet.css"
+					],
+					[
+						"ed",
+						"edition.php"
+					],
+					[
+						"man",
+						"manage.php"
+					],
+					[
+						"udpa",
+						"update.php"
+					],
+					[
+						"trait",
+						"trait.php"
+					],
+					[
+						"init",
+						"core\\init.php"
+					],
+					[
+						"aut",
+						"auth.php"
+					],
+					[
+						"upda",
+						"update.php"
+					],
+					[
+						"ma",
+						"manage.php"
+					],
+					[
+						"client",
+						"core\\Libs\\Clients.php"
+					],
+					[
+						"iden",
+						"core\\Libs\\Identifications.php"
+					],
+					[
+						"sheed",
+						"vendor\\symfony\\translation\\Dumper\\PhpFileDumper.php"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"manag",
+						"manage.php"
+					],
+					[
+						"footer",
+						"core\\Footer.php"
+					],
+					[
+						"appjs",
+						"js\\app.js"
+					],
+					[
+						"lo",
+						"log.php"
+					],
+					[
+						"logout",
+						"logout.php"
+					],
+					[
+						"loout",
+						"logout.php"
+					],
+					[
+						"lout",
+						"logout.php"
+					],
+					[
+						"messa",
+						"core\\Libs\\Message.php"
+					],
+					[
+						"logo",
+						"logout.php"
+					],
+					[
+						"ini",
+						"core\\init.php"
+					],
+					[
+						"sge",
+						"vendor\\illuminate\\database\\Query\\Grammars\\SQLiteGrammar.php"
+					],
+					[
+						"css",
+						"vendor\\illuminate\\database\\Connectors\\SqlServerConnector.php"
+					],
+					[
+						"mess",
+						"core\\Libs\\Message.php"
+					],
+					[
+						"ps",
+						"core\\Libs\\Psql.php"
+					],
+					[
+						"psq",
+						"core\\Libs\\Psql.php"
+					],
+					[
+						"logou",
+						"logout.php"
+					],
+					[
+						"app",
+						"js\\app.js"
+					],
+					[
+						"m",
+						"manage.php"
+					],
+					[
+						"she",
+						"css\\sheet.css"
+					],
+					[
+						"clients",
+						"core\\Libs\\Clients.php"
+					],
+					[
+						"bas",
+						"core\\libs\\BaseMod.php"
+					],
+					[
+						"base",
+						"core\\libs\\BaseL.php"
+					],
+					[
+						"clientsen",
+						"core\\Entities\\ClientsEntity.php"
+					],
+					[
+						"libcl",
+						"core\\libs\\Clients.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": "/C/Users/jules/Desktop/sublime projects/goldobak0.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/jules/Desktop/sublime projects/goldobak0.sublime-workspace",
+			"/C/Users/jules/Desktop/sublime projects/swiftpay.sublime-workspace",
+			"/C/Users/jules/Desktop/sublime projects/others.sublime-workspace",
+			"/C/Users/jules/Desktop/sublime projects/goldobak.sublime-workspace",
+			"/C/wamp64/www/2105/tp2/tp2 sublime.sublime-workspace",
+			"/C/Users/jules/Desktop/sublime projects/2105.sublime-workspace",
+			"/C/Users/jules/Desktop/sublime projects/kna.sublime-workspace",
+			"/C/wamp64/www/sublime/workspace/Flat Dark.sublime-workspace"
+		]
+	}
+}

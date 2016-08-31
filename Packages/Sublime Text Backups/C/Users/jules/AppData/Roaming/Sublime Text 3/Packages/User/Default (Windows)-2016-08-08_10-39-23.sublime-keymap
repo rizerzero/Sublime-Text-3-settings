@@ -1,0 +1,19 @@
+[
+	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+
+	// namespaces plugin
+		{ "keys": ["f6"], "command": "expand_fqcn" },
+        { "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+        { "keys": ["f4"], "command": "find_use" },
+        { "keys": ["f5"], "command": "import_namespace" },
+        { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+		//{ "keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/dots.sublime-macro"}},
+
+		
+	{ "keys": ["ctrl+alt+k"], "command": "toggle_side_bar" },
+		{ "keys": ["ctrl+shift+q"], "command": "insert_php_constructor_property"},
+		{ "keys": ["ctrl+shift+o"], "command": "padawan_start_server"},
+		{ "keys": ["ctrl+shift+c"], "command": "padawan_stop_server"},
+	
+
+		]
