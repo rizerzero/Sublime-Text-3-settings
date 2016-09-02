@@ -1,5 +1,9 @@
 [
 	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+	
+	
+	{ "keys": ["ctrl+shift+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	
 
 	// PHP COMPAGNION  plugin
 		{ "keys": ["f6"], "command": "expand_fqcn" },

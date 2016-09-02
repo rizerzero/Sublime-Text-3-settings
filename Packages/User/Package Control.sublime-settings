@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"All Autocomplete",
 		"anaconda_php",
 		"AutoFileName",
@@ -18,6 +19,7 @@
 		"IntelliDocs",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
+		"Material Theme",
 		"Origami",
 		"Package Control",
 		"PHP Codebeautifier",
@@ -26,10 +28,17 @@
 		"php-snippets",
 		"Phpcs",
 		"PHPUnit",
+		"Predawn",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"Terminal",
 		"Theme - Afterglow",
+		"Theme - Centurion",
 		"Theme - itg.flat",
-		"Theme - Lyte"
+		"Theme - Lyte",
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"Trimmer"
 	]
 }
