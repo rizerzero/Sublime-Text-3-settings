@@ -2,7 +2,7 @@
 
 Flat Green  
 
-[capture]:https://github.com/rizerzero/Sublime-Text-3-settings/raw/master/capture.png "Capture"
+![](https://github.com/rizerzero/Sublime-Text-3-settings/raw/master/capture.png)
 
 Current Theme :Afterglow
 
